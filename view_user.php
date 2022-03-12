@@ -57,5 +57,8 @@ if (!empty($_POST['submit'])) {
         </div>
     <?php } ?>
 </div>
+<script>
+    alert('asdsad');
+</script>
 </body>
 </html>
